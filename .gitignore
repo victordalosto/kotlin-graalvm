@@ -1,5 +1,7 @@
 ### User-specific
 tmp/
+alfred.exe
+
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
